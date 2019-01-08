@@ -10,10 +10,6 @@
 			<arguments>
 			</arguments>
 		</buildCommand>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> branch 'master' of https://github.com/JRJimenezReyes/Baraja.git
 		<buildCommand>
 			<name>org.eclipse.buildship.core.gradleprojectbuilder</name>
 			<arguments>
@@ -23,13 +19,5 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.buildship.core.gradleprojectnature</nature>
-<<<<<<< HEAD
-=======
-=======
-	</buildSpec>
-	<natures>
-		<nature>org.eclipse.jdt.core.javanature</nature>
->>>>>>> branch 'master' of https://github.com/JRJimenezReyes/Baraja.git
->>>>>>> branch 'master' of https://github.com/JRJimenezReyes/Baraja.git
 	</natures>
 </projectDescription>
